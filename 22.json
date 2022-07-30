@@ -1,0 +1,241 @@
+{
+      "course": {
+            "id": "22",
+            "name": "Getting Started",
+            "logo": "https://bit.ly/2A2rddz",
+            "notes": "",
+            "days_to_complete": "45",
+            "short_description": "We will learn how to spend your time effectively at NavGurukul. All new students must go through this course.",
+            "type": "html",
+            "course_type": null,
+            "lang_available": [
+                  "en"
+            ],
+            "exercises": [
+                  {
+                        "id": "4112",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Getting Started",
+                        "slug": "getting-started__getting-started_md",
+                        "sequence_num": 0,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/getting-started.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "NavGurukul mei aapka swagat hai. NavGurukul ek learners ki community hai jo aapko sahajta, samvedansheelta aur shreshthta se purna jeevan jeene ke liye tayyar karta hai. Aap mehnat karke ek achhi job zarur le paenge, aur sath hi jeevan jeene ki kuch important skills bhi aap yahan seekhenge. \n\n\n\nNavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki **seekhte kaise hain**.\n\n\n\nJab aap course shuru karenge toh aapko cheezein thodi muskhil lagengi, par aap dheere dheere jaise thoda time bitayenge toh aapko cheezein samajh aana shuru hongi and aasaan lagne lagegi. Aise mei zaroori hai ki aap lagataar mehnat karte raho. Koi cheez aasaan lage, toh ek baar. Mushkil lage toh do baar karo. Aur mushkil lage, toh baar baar karo.\n\n\n\nNavGurukul ka yeh course saare courses se kaafi alag hai. Aapko iss course ko karne ke liye khud par bharosa karna padega, aur yeh samajhna padega ki jo bhi aapke questions hai, google sab answers kar sakta hai agar aap sahi se uss question ko google se puchenge.\n\n\n\nAapko agar koi bhi question aata hai toh aap yeh sequence follow karoge - \n\n* Google se poocho. Agar ek baar mei answer nahi mile, toh apne question ko kisi aur tarah se poocho.\n\n* NavGurukul mei kisi aur student se poocho\n\n* Apne facilitator se poocho\n\n\n\nFacilitator ka kaam aapki learning mei help karna hai, and facilitator khud decide karega ki facilitator kaha aapki sabse jyada help kar sakta hai. Aap yeh na samjhe ki facilitator aapke questions ka answer karega. Apne questions ka answer dheere dheere aap kaafi asaani se google par dhoondh payega. Aur yehi sacchi learning hai.\n\n\n\nSelf-managed Campus\n\nNavGurukul ke campus ko manage karne ki zimmedari aapke jaise hi kuch students lete hain. Apne campus ko chalane ke liye kisi aur ke adheen na hote hue, apne rehne aur padhne ke liye saare zaruri arrangements community members mil baatkar karte hain. Sirf itna hi nahi, campus me padhai ko behtar se behtar kaise banana hai, kaise bahar se logon ko invite karna hai taaki vo campus aakar students ke sath apna knowledge share kar sakein, kaise students ke liye new learning opportunities dhundni hain, ye sab student community lead karti hai. Aapki help ke liye NavGurukul ki team aur kafi saare volunteers humesha ready rehte hain.\n\n\n\nSelf and Peer led Learning\n\nNavGurukul mein aap kafi saare skills seekhnege lekin yahan koi teachers nahin hai. Aapki learning ki sabse zyada responsibility aapki khud hai. Aap internet par available kafi saare resources, NavGurukul dwara banaye gaye curriculum aur ek dusre ki help lekar seekhenge. Sath hi apko kuch mentors assign kiye jaenge jo aapki help karenge ye samajhne mein ki aapko kya padhna hai aur kahan se padhna hai. Aap kitna jaldi ya kitna dheere seekhte hain, ye aapki mehnat ke upar depend karta hain.\n\n\n\nDhyaan Rakhein!\n\n- Koshish karke English mei jitna bol sako, utna English mei bolo.\n\n\n- Aapki learning aapke haath mei hai. Aap kisi cheez ko 2 ghante mei seekh sakte ho, 2 din mei, ya do hafte mei. Aakhir mei aap kitna seekhoge yeh aapki lagan aur mehnat par nirbhar karega.\n\n\n- Yeh shayad aapki zindagi ka sabse important time hai, jab aap itna sab seekh sakte ho. Iss samay ka laabh acche se seekhne mei lagao.\n\n\n- Hamesha apne uppar bharosa rakho, aap jo test clear karke aaye hai woh clear karna hi yeh darshaata hai ki aap coding mehnat karke aaraam se seekh jayenge.\n\n\n\n\nAapka Schedule\n\n- Aapki classes ka schedule yaani kaunsi classes kab hoti hai, yeh aapka poora group decide karta hai. Aap apne aas paas kisi bhi student se schedule le kar yaad kar lo. Schedule ko dhyaan se follow karna bahut jaroori hai. Agar aap kisi bhi class ke liye late hote hai, toh aap woh class nahi lagayenge.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4113",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Constitution",
+                        "slug": "getting-started__constitution_md",
+                        "sequence_num": 100,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/constitution.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Constitution\n\nNavGurukul mein self-governance implement karne ke liye ek Constitution banaya gaya hai. Ye Constitution define karta hai ki hum log kis tarah se rehte hain, kin values mein believe karte hain aur campus ke day-to-day affairs ko kaise manage karte hain. Yeh constitution ek structured manner me ek framework provide karta hai \u2013 jis se har member ka development hota hai aur daily basis pe hone waali problems ko efficiently tackle kiya ja sakta hai.\n\n\n\nAap is opportunity ka use ek safe space banaane me apne role ko samajhne aur appreciate karne ke liye kar sakte hain jis se sabhi ek doosre ke beech seekhein aur pyar se rahein.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4109",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Toggl",
+                        "slug": "getting-started__toggl_md",
+                        "sequence_num": 200,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/toggl.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Toggl\n\nHum sabke din mein 24 hours hote hain. Ek successful person ye jaanta hai ki humara time bohot important hai aur humein poora dhyan rakhna chahiye ki hum apna time kahan spend kar rahe hain. NavGurukul mein humari padhai aur baaki activities me bitaaye gaye time ko track karne ke liye hum \"Toggl\" name ki app use karte hain. Aap toggl.com par jaakar apna account banaein aur apne time ko vahan track karna start karein.\n\n\n\nHow to Use Toggl\n\nApne NavGurukul ke email ID to use karke Toggl par 'Sign Up' karein.\nToggl ko use karne ke liye 'Timer' par jaaen. Jab aap padhai karna ya community seva karna start karein, `tab` Timer ko on kar dein. Vahan description likh dein ki aap cheez par kaam kar rahe hain. Saath hi project bhi update kar dein. For example, agar aap `Python` mein `loops` par kaam kar rahe hain, toh aap description me '`Loops` exercise' likhenge aur project mein '`Python`'.\n\n\n\nToggl me aap 'Reports' me jaakar dekh sakte hain ki aapka zyada se zyada time kahan spend ho raha hai.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4115",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Seva",
+                        "slug": "getting-started__seva_md",
+                        "sequence_num": 300,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/seva.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Seva\n\nNavGurukul ke saare community members har roz apne din ka kuch samay 'community service' ya **seva** mein bitate hain. Is seva ke zariye hum ye ensure karte hain ki hum apni aur apne aas paas ki community ko kuch return karte hain aur apne center ko chalane ki responsibility khud lete hain. Center ko chalane mein hum jo bhi samay lagate hain vo sab bhi isi seva ka ek hissa hai. Saath hi, Council members community ki management aur betterment ke liye jo time spend karte hain vo bhi seva ka hissa hain.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4111",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Good Bad Ugly",
+                        "slug": "getting-started__gbu_md",
+                        "sequence_num": 400,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/gbu.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Good Bad Ugly\n\nNavGurukul mein hum exams mein nahi balki introspection me believe karte hain. \n\n\n\nWhy?\n\nIntrospection (n.): the examination or observation of one's own mental and emotional processes, \u0905\u0902\u0924\u0930\u094d\u0926\u0930\u094d\u0936\u0928, \u0906\u0924\u094d\u092e\u0928\u093f\u0930\u0940\u0915\u094d\u0937\u0923\n\n\n\nIntrospection ka matlab hota hai apne aap ko observe karna, khud hi apne mental aur emotional processes ko samajhna. Introspection humein kai tareekon se help karta hai. Ye aapko apne aap ko behtar jaanne mein help karta hai. Introspection karne se hum yeh pehchan sakte hain humne kahan kuch mistakes ki hai aur hum aage kaise un mistakes ko na repeat karein. \n\n\n\nProductivity ka example lete hain. Kai baar hum apni unproductiveness ka reason jaane bina use hatane ki koshish karte rehte hain. Par bina uski root ko samjhe, hum sahi solution nahi nikal sakte. Introspection us root tak pohochne mein humari help karta hai. \n\n\n\nIntrospection humara dhyan apne andar ki un cheezon par le jaata hai jinhe hum improve kar sakte hain. Hum kaunsi baaton se dukh hota hai aur kisse gussa hota hai, ye humein pata laga sakte hain.\n\n\n\nHow\n\nNavGurukul mein hum har week (aur month) ek 'Good Bad Ugly' format mein introspection karte hain. Isme hum ye dekhte hain ki humare week(ya month) mein kya achha tha aur kya bura.\n\n\n\n* **Good:** Kaunsi cheezein achhi hui, kya achieve kiya, kya karke khushi hui. Saari positive feelings aur events yahan aate hain.\n\n* **Bad:** Kahan kuch galtiyan hui. Yahan par vo cheezein aaengi jo thodi bahut galat hui, thoda effort daalke inko sahi kiya ja sakta hai.\n\n* **Ugly:** Kaunsi cheezein bahut galat huin. Ye galatiyan vo hain jo shayad ek pattern hai humara. Ye galat pattern pura week (ya pura month) humari padhai (ya kaam) me dikha. Ye vo cheezein hain jinko priority par solve karna important hai.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4116",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Awards",
+                        "slug": "getting-started__awards_md",
+                        "sequence_num": 500,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/awards.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Awards\n\nNavGurukul mein har mahine kuch students ko unke efforts ki sarahna karne ke liye awards diye jaate hain. Hum har campus mein do awards har manine dete hain:\n\n\n\nDashrath Manjhi Award\n\nDashrath Manjhi Award us student ko diya jaata hai jisne pichhle mahine community ke liye sabse achha effort kiya hai. Vah student jisne apni sincerity, responsibility aur service ke through NavGurukul community ko sabse achha contribution diya hai.\n\n\n\nMary Kom Award\n\nMary Kom Award us student ko jaata hai jisne us mahine padhai mein sabse zyada mehnat ki ho. \n\n\n\nAwards ka selection\n\nAwards ke liye selection ka process is prakar hai:\n\n\n\n1. **Nominations:** Awards ki announcement hone par students aur apne aap ko ya student community mein se kisi aur ko awards ke liye nominate karenge. NavGurukul ke team members bhi students ko awards ke liye nominate kar sakte hain. Nomination ke sath kaaran dena bhi important hai.\n\n2. **Pitch:** Jo nominated students hain, vo ek video banaenge baaki students ko yeh batate hue ki award unhe kyun milna chahiye. Ye video maximum 2 minute ki aur kisi bhi language me ho sakti hai.\n\n3. **Voting:** Nominations hone ke baad saare students vote karenge. Jis student ko sabse zyada votes milenge, unhe award diya jaega.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4117",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Manthan",
+                        "slug": "getting-started__manthan_md",
+                        "sequence_num": 600,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/manthan.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Manthan\n\nManthan ek internship program hai jo NavGurukul ke students ko zyada exposure dene ke liye design kiya gaya hai. Is internship mein students alag alag interesting jagahon par jaakar kuch unique activities mein participate karte hain jaise ki farming, eco-construction, meditation, teaching etc. In internships mein students ko mauka milta hai ki vo naye logon se milein aur apne knowledge ko increase karein. Manthan mein students aisi communities me jaakar kaam kar sakte hain jinse vo connect karte hain. Aur kuch cheezein apne baare mein jaante hain jo pehle kabhi nahi jaani.\n\n\n\nKuch places jahan par students Manthan ke liye gae hain:\n\n* [Meet The Tribe, Bastar, Chhatisgarh](https://www.mangopeople.org.in/single-post/2018/01/06/MeetTheTribe)\n* [Deer Park Institute, Palampur](deerpark.in/)\n\n* [Sanghamitra Institute, Bodh Gaya](http://www.jamyang.org/)\n\nManthan par gae hue kuch logon ki stories aap yahan padh sakte hain:\n\n* [Interaction with community on menstruation - Annu Bharti](https://medium.com/@annu17/interaction-with-community-on-menstruation-f59be10e203e)\n* [My Feelings and Expectation from Bastar Trip of Self-sustainability - Annu Bharti](https://medium.com/@annu17/my-feelings-and-expectation-from-bastar-trip-of-self-sustainability-a92047c1a90d)\n* [My 10 Days Journey of Bastar - Harjeet Kaur](https://medium.com/@harjeet17/my-10-days-journey-of-bastar-3302b311bd1a)\n* [Experience of teaching at at school - Harjeet Kaur](https://medium.com/@harjeet17/this-week-is-good-i-learned-many-things-this-week-as-i-went-to-school-i-have-played-a-lot-of-42768bc6c998)\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4114",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Padhain Shuru Karein",
+                        "slug": "getting-started__padhai-shuru-karein_md",
+                        "sequence_num": 700,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/padhai-shuru-karein.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Padhai Shuru Karein\n\nSabse Pehle\n\n- Google Chrome download kar kar install karo. Chrome browser yaha - https://www.google.com/chrome/ se milega.\n\n\n- Apne facilitator ko bol kar apni navgurukul.org wali email ID banwao. Uske baad uss se gmail.com par login karo.\n\n\n- Yeh video dekho - \n\n\n\n"
+                              },
+                              {
+                                    "type": "youtube",
+                                    "value": "opSNSVnTn68&"
+                              },
+                              {
+                                    "type": "markdown",
+                                    "value": "Iss video ko use karke `Terminal` use karna seekho. Iss Video ko dekh kar yeh exercise karo.\n\n\n\n```bash\n    cd command use karke Desktop par jao\n    mkdir command use karke Desktop par ek NavGurukul naam ka folder banao\n    navgurukul folder mei cd karo\n    Iss folder mein new_folder naam se ek folder banao\n    ab ls karke dekho ki kaun kaun si files present hai\n    ab apni home directory mei jakar ls karo and output slack mei apne facilitator ko bhejo\n```\n- undefined\n\n- padhai-shuru-karein_key7\n```bash\n  sudo add-apt-repository ppa:webupd8team/atom\n  sudo apt-get update\n  sudo apt-get install atom\n```\n- Iska aapka Atom `Editor` install ho jayega. Atom `editor` mei hi aap apni saari exercises karoge.\n\n\n\nProgramming\n\nPehla ek mahina aapka pehla programming session `Python` naam ki language mei hoga, and doosra programming session HTML/CSS mei hoga.\n\n\n\n`Python` seekhne ke liye aapko saral.navgurukul.org use karna hai.\n\n\n\n`Python` ki exercies ko karne ke liye aapko Pycharm install karna padega. Pycharm ek `editor` hai jo aapki `python` ki exercises karne mei help karega. Isko install karne ke liye niche di gayi commands ko `terminal` mei run kare:\n\n\n\n```bash\nsudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make\nsudo apt-get update\nsudo apt-get install ubuntu-make\nUmake ide pycharm\n```\nHTML/CSS ki exercises ke liye aapko Brackets ki jarurat padegi. Brackets bhi ek `editor` jo aapki HTML/CSS ki exercises mei help karega. Isko install karne ke liye niche di gayi commands ko `terminal` par run kare:\n\n\n\n```bash\nsudo add-apt-repository ppa:webupd8team/brackets\nsudo apt-get update\nsudo apt-get install brackets\n```\nEnglish\n\n- English learning start karne ke liye, pehle is link ko use karke Google classroom kholein: https://classroom.google.com/\n\n- Is `code` ko use karke 'Life Skills' ka classroom join karein: mxrnr0\n\n- Apne baseline assessment tests dein: http://www.languagelevel.com/english/\n\n- Reading comprehension: https://www.englishclub.com/reading/test.htm\n\n- Apne tests ke score ko is sheet me record karein: https://docs.google.com/spreadsheets/d/1JQNtvbBWpCVkH8s_uxQSQt6c13MakNuMltc2n44imA8/edit?usp=sharing\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4108",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Some Important Rules",
+                        "slug": "getting-started__rules_md",
+                        "sequence_num": 800,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/rules.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Some Important Rules\n\n- Hume apne bartan khud dhone hote hai.\n\n\n- Khana waste nahi karna hai\n\n\n- Yaha par do dustbins hai\n\n-- - ek dustbin jo kitchen mei hai jis mei aap organic cheezein - jaise fruits ke cheelke, bacha hua khan, ande ke chilke, jaisa waste daaloge. \n\n-- - doosra dustbin jo bahar hai jis mei aap baaki samaan daaloge.\n\n\n- NavGurukul campus mein non-vegeratian food (except eggs) allowed nahi hai.\n\n\n- Har class aapko time se start karni hai.\n\n\n- Hindi gaane sunna avoid karein. Aap english gaane sunoge, aur unko samajhne ki koshish karoge. Isse aapki English improve hogi.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4110",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Leave Policy",
+                        "slug": "getting-started__leaves_md",
+                        "sequence_num": 900,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/leaves.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Leave Policy\n\nNavGurukul\u2019s one-year residential program is an intensive program. It requires your **extraordinary commitment**, **passion** & **hard work**. The program relies on **peer learning**, and expects you to be **available all throughout the year** to maximising your learning and ensure that every student learns well. \n\n\n\nNavGurukul isn\u2019t a conventional school or college, instead is like a family or a home. Students are expected to stay here, learn, celebrate their joys and festivals, share their sorrows and help each other in their journeys. \n\n\n\nThere are no official leaves including that of festivals like Diwali, Eid or Christmas. Hpwever there are a few exceptions as follows:\n\n* Upto **12 days leaves** in case of death of an immediate family member - father, mother and siblings\n\n* Upto **4 days leaves** in case of death of close family members - grandparents, uncles, aunts\n\n* Upto **20 days leaves** (once in the entire year) for university/college exams\n\n\n\nYet, if the student needs to take leaves for any other purpose - health (personal or family), important event or ceremony which can\u2019t be avoided, etc. student needs to inform about his leave to the Center Incharge **at least 3 days in advance**. The student has to spend **two days in community serving** for each leave that he or she takes. The rationale of this policy is the realisation, that **any leave by the student hurts the interest of the entire group**. Hence, by engaging in community serving student can think responsibly and also add value to the community.\n\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4118",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Useful Links",
+                        "slug": "getting-started__useful-links_md",
+                        "sequence_num": 1000,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/useful-links.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Useful Links\n\nAwards\n\n* [Nominations](https://goo.gl/forms/8ZKrwfqvahdUfEt53)\n* [Voting](https://goo.gl/forms/a2yjZHgyN5aNy7r13)\n\nFeedback\n\n* [Anonymous Feedback Form](https://goo.gl/forms/o4d68yx4l9wLRSYg2)\n* [Anonymous Council Feedback Form](https://goo.gl/forms/4266QKodGc6Ca5NI2)\n* [Seva](https://goo.gl/forms/pR3mbFX704vHVVjB3)\n\nElections\n\n* [Nominations](https://goo.gl/forms/2tKHf95IYmRWfIgz1)\n* [Voting](https://goo.gl/forms/56I8veVXndkcRhhD3)\n\nSEVA\n\n* [Preference Form - Dharamsala](https://goo.gl/forms/plXlTI3C06wDYsSk2)\n* [Preference Form - Bangalore](https://goo.gl/forms/Je1rrQz4F8Ra3eU03)\n* [Feedback](https://goo.gl/forms/pR3mbFX704vHVVjB3)\n"
+                              }
+                        ]
+                  },
+                  {
+                        "id": "4119",
+                        "parent_exercise_id": null,
+                        "course_id": "22",
+                        "name": "Important Contacts",
+                        "slug": "getting-started__contacts_md",
+                        "sequence_num": 1100,
+                        "review_type": "manual",
+                        "submission_type": null,
+                        "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/contacts.md",
+                        "solution": null,
+                        "content": [
+                              {
+                                    "type": "markdown",
+                                    "value": "Important Contacts\n\nHere are some important contact numbers:\n\n\n\nCouncil Dharamsala\n\n* GenSec - Ajay Dohre - 8770212379\n\n* Food & Hygiene Coordinator - Raushan Kumar - 9911784903\n\n* Information Technology Coordinator - \n\n* Cultural Coordinator - \n\n* Facility Maintainence Incharge - \n\n* Outreach & Communication Coordinator -\n\n* Training & Placement Coordinator - \n\n* Treasurer - Ajay Dohre - 7088373643\n\n* DISCO - Akhil Rawat - 7088373643\n\n\n\n\nCouncil Bangalore\n\n* GenSec - Meenakshi Patel - 9617535175\n\n* Food & Hygiene Coordinator - Divya Parmar - \n\n* Information Technology Coordinator - Priya Pandey - 7974501081\n\n* Outreach & Communication Coordinator - Komal Bhatt - 7302629612\n\n* Training & Placement Coordinator - Priya Pandey - 7974501081\n\n* Treasurer - Meenakshi Patel - 9617535175\n\n* DISCO - Shivani Sharma\n\n"
+                              }
+                        ]
+                  }
+            ]
+      }
+}
